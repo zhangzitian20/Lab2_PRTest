@@ -13,7 +13,7 @@
  * 输入：nums = [2,0,1]
  * 输出：[0,1,2]
  */
-
+//修改正确，无问题
 class Solution {
     public void sortColors(int[] nums) {
         int n = nums.length;
